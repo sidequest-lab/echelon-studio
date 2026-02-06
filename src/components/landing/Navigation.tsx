@@ -13,7 +13,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
           <a href="#" className="text-lg font-semibold tracking-tight">
-            Studio
+            Echelon Studio
           </a>
 
           {/* Desktop Navigation */}

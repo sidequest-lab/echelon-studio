@@ -15,9 +15,9 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-8">
           {/* Logo & Copyright */}
           <div>
-            <p className="text-lg font-semibold mb-2">Studio</p>
+            <p className="text-lg font-semibold mb-2">Echelon Studio</p>
             <p className="text-sm text-muted-foreground">
-              © {currentYear} Studio. All rights reserved.
+              © {currentYear} Echelon Studio. All rights reserved.
             </p>
           </div>
 
@@ -52,10 +52,10 @@ const Footer = () => {
           {/* Contact */}
           <div className="text-sm text-muted-foreground">
             <a
-              href="mailto:hello@studio.com"
+              href="mailto:hello@echelonstudio.com"
               className="hover:text-foreground transition-colors"
             >
-              hello@studio.com
+              hello@echelonstudio.com
             </a>
           </div>
         </div>

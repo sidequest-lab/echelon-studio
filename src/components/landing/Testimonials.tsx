@@ -4,7 +4,7 @@ import { useRef } from "react";
 const testimonials = [
   {
     quote:
-      "Studio transformed our brand from forgettable to unforgettable. Their attention to detail and strategic thinking elevated everything we do.",
+      "Echelon Studio transformed our brand from forgettable to unforgettable. Their attention to detail and strategic thinking elevated everything we do.",
     author: "Sarah Chen",
     role: "CEO, Vertex Labs",
   },
